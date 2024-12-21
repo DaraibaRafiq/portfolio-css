@@ -10,7 +10,7 @@ function About () {
        <div className="header-boxes-container">
         {/*left*/}
         <div>
-        <Image src={"/profile.jpg"} alt="profile" height={200} width={200} />
+        <Image src={"/profile1.jpg"} alt="profile" height={200} width={200} />
         </div>
         {/*right*/}
         <div className="hero-right-div">
